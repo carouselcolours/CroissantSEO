@@ -1,0 +1,13 @@
+body {
+background-color: #cdf0ea;
+display: center;
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+text-align: center;
+}
+
+.croissant-1 {
+padding: 10px 10px;
+height: 400px;
+width: 500px;
+}
+
